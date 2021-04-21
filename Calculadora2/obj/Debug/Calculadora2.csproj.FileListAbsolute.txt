@@ -1,0 +1,15 @@
+C:\Users\nacho\source\repos\Calculadora2\bin\Debug\Calculadora2.exe.config
+C:\Users\nacho\source\repos\Calculadora2\bin\Debug\Calculadora2.exe
+C:\Users\nacho\source\repos\Calculadora2\bin\Debug\Calculadora2.pdb
+C:\Users\nacho\source\repos\Calculadora2\obj\Debug\MainWindow.g.cs
+C:\Users\nacho\source\repos\Calculadora2\obj\Debug\App.g.cs
+C:\Users\nacho\source\repos\Calculadora2\obj\Debug\Calculadora2_MarkupCompile.cache
+C:\Users\nacho\source\repos\Calculadora2\obj\Debug\Calculadora2_MarkupCompile.lref
+C:\Users\nacho\source\repos\Calculadora2\obj\Debug\MainWindow.baml
+C:\Users\nacho\source\repos\Calculadora2\obj\Debug\Calculadora2.g.resources
+C:\Users\nacho\source\repos\Calculadora2\obj\Debug\Calculadora2.Properties.Resources.resources
+C:\Users\nacho\source\repos\Calculadora2\obj\Debug\Calculadora2.csproj.GenerateResource.cache
+C:\Users\nacho\source\repos\Calculadora2\obj\Debug\Calculadora2.exe
+C:\Users\nacho\source\repos\Calculadora2\obj\Debug\Calculadora2.pdb
+C:\Users\nacho\source\repos\Calculadora2\obj\Debug\Calculadora2.csprojAssemblyReference.cache
+C:\Users\nacho\source\repos\Calculadora2\obj\Debug\Calculadora2.csproj.CoreCompileInputs.cache
